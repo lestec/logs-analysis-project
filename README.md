@@ -39,7 +39,7 @@ What is the reporting tool reporting?
 2.  Download the VM configuration zip file by [Udacity](https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59125904_fsnd-virtual-machine/fsnd-virtual-machine.zip)
 	    OR Clone the repository from [here](https://github.com/udacity/fullstack-nanodegree-vm)
 	
-3.  Clone this repo (my github) to the vagrant folder that is inside  
+3.  Clone this repo [here](git@github.com:lestec/logs-analysis-project.git) to the vagrant folder that is inside  
 	    the VM configuration file that was downloaded/cloned above.  
 	
 4.  Once the project has been setup, navigate into the project directory
